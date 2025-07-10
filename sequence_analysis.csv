@@ -1,0 +1,4 @@
+ID,Length,GC_Content(%),Is_Valid
+ATCGATCGATCG,4,0.0,False
+GGGCCCAATTTGGG,4,0.0,False
+ATGCATXGCAGT,0,0.0,True
